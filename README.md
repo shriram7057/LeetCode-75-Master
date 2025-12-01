@@ -2,7 +2,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="220" />
 </p>
 
-<h1 align="center">LeetCode 75 Solutions</h1>
+<h1 align="center">LeetCode 75 Challenge Solutions</h1>
 
 This repository contains my solutions to the **LeetCode 75 Study Plan**. All 75 problems have been completed using clean, optimized, and interview-ready approaches.
 
@@ -46,23 +46,10 @@ Each directory contains:
 ## 📸 Screenshots
 (You can add the two achievement screenshots here once uploaded)
 
-## 🛠 Tech Used
+##  Tech Used
 - Python / Java
 - LeetCode Online Judge
 - Git & GitHub for version control
-
-## 🤝 Contribution
-This repo is primarily for reference. Feel free to open issues or suggest improvements.
-
-## ⭐ Show Support
-If this repository helps you, consider giving it a **star**! 🌟
-
----
-## 🔰 Badges
-![LeetCode Badge](https://img.shields.io/badge/LeetCode-75%2F75-blue)
-![Python](https://img.shields.io/badge/Language-Python-green)
-![Java](https://img.shields.io/badge/Language-Java-orange)
-![GitHub](https://img.shields.io/badge/Platform-GitHub-black)
 
 ## 📂 Example Folder Structure
 ```
@@ -103,6 +90,19 @@ leetcode-75/
 git clone https://github.com/YOUR_USERNAME/leetcode75.git
 ```
 2. Navigate into folders and explore clean solutions.
+## 🤝 Let's Connect!
+<div align="center">
 
----
-Happy Coding 🚀! 🚀
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shriram7057)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shriram-lahane/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/shriram_lahane/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pvy.shree_01/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/shriram01)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lahaneshriram2@gmail.com)
+
+</div>
+
+### ⭐ **Thanks for visiting!**
+**Keep Learning | Keep Coding | Keep Building** 🚀  
+
+<br>
