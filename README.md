@@ -1,5 +1,6 @@
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="220" />
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/LeetCode%2075!.gif?raw=true" width="220" />
 </p>
 
 <h1 align="center">LeetCode 75 Challenge Solutions</h1>
